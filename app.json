@@ -1,0 +1,17 @@
+"BOT_INFO": {
+      "description": "botname;ownername;ownernumber;image url",
+      "required": true,
+      "value": "𝘔𝘈𝘟𝘖-𝘟𝘌𝘙;𝘔𝘈𝘟𝘖-𝘔𝘋;8848636819;https://i.imgur.com/cbYHXsx.jpeg"
+      "value": "𝘔𝘈𝘟𝘖-𝘟𝘌𝘙;𝘔𝘈𝘟𝘖-𝘔𝘋;8848636819;https://i.imgur.com/cbYHXsx.jpeg"
+    },
+    "STICKER_DATA": {
+      "description": "sticker package name",
+@@ -58,7 +58,7 @@
+    "AUDIO_DATA": {
+      "description": "audio package name",
+      "required": true,
+      "value": "𝘔𝘈𝘟𝘖-𝘟𝘌𝘙;𝘔𝘈𝘟𝘖-𝘔𝘋;https://i.imgur.com/cbYHXsx.jpeg"
+      "value": "𝘔𝘈𝘟𝘖-𝘟𝘌𝘙;𝘔𝘈𝘟𝘖-𝘔𝘋;https://i.imgur.com/cbYHXsx.jpeg"
+    },
+    "READ_COMMAND": {
+      "description": "Read all commands",
